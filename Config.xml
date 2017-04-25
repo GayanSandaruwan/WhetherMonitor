@@ -1,0 +1,11 @@
+<data>
+    <tokens>
+        <token portal="noaa">ycfAHUIUtBJyyTalPLJMOStImABViIrU</token>
+    </tokens>
+    <urls>
+        <url dataType="trail" portal="noaa">http://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCNDMS&locationid=ZIP:28801&startdate=2000-01-01&enddate=2010-01-01</url>
+        <url dataType="item2"></url>
+        <url dataType="item3"></url>
+        <url dataType="item4"></url>
+    </urls>
+</data>
